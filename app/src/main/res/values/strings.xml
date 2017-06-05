@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThreadBasic</string>
+    <string name="title_activity_tread_basic">TreadBasicActivity</string>
+</resources>
